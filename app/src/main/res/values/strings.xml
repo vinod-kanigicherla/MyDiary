@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Diary App</string>
+    <string-array name="sortOptions">
+        <item>all</item>
+        <item>categories</item>
+    </string-array>
+</resources>
