@@ -16,5 +16,6 @@ V-Diary allows you to create your own personal password-protected diary on your 
 ## Screens
 
 1. Diary Home Page
-2. Diary Edit Page
-3. Template Create page
+![Diary Home Page](https://github.com/vinod-kanigicherla/[V-Diary]/images/Personal Diary Home Page.jpg?raw=true)
+3. Diary Edit Page
+4. Template Create page
