@@ -19,17 +19,17 @@ MyDiary allows you to create your own personal password-protected diary on your 
 
 ![Diary Home Page](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Personal%20Diary%20Home%20Page.png)
 
-![Diary Home Page with Menu Options](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Diary%20App%20Home%20Page%20%2B%20Add%20and%20Clear%20all%20Templates.png)
+![Diary Home Page with Menu Options](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Diary%20App%20Home%20Page%20%2B%20Add%20and%20Clear%20all%20Templates.png)
 
 ### 2. Diary Edit Page
 
-![Diary Edit Page](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Personal%20Diary%20Page%20Edit.png)
+![Diary Edit Page](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Personal%20Diary%20Page%20Edit.png)
 
-![Use Template Alert Dialog](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Use%20Template%20Diary%20App.png)
+![Use Template Alert Dialog](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Use%20Template%20Diary%20App.png)
 
-![Set Categories Alert Dialog](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Set%20Categories%20Diary%20App%20Final.png)
+![Set Categories Alert Dialog](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Set%20Categories%20Diary%20App%20Final.png)
 
 ### 3. Template Create page
 
-![New Template Page](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/New%20Template%20Diary%20App.png)
+![New Template Page](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/New%20Template%20Diary%20App.png)
 
