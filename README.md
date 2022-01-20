@@ -1,9 +1,9 @@
-# V-Diary: Android Diary App 
+# MyDiary: Android Diary App 
 
 ## Description Overview
 
 
-V-Diary allows you to create your own personal password-protected diary on your phone. This app allows you to record what happens in your life and organize your thoughts and feelings everyday. Additionally, you can easily access journal entries from the past through its easy to use interface. In this digital space protected from the outside world, you can write about whatever you want regardless of other people’s opinions.
+MyDiary allows you to create your own personal password-protected diary on your phone. This app allows you to record what happens in your life and organize your thoughts and feelings everyday. Additionally, you can easily access journal entries from the past through its easy to use interface. In this digital space protected from the outside world, you can write about whatever you want regardless of other people’s opinions.
 
 ## Base Feature List
 
