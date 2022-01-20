@@ -17,7 +17,7 @@ MyDiary allows you to create your own personal password-protected diary on your 
 
 ### 1. Diary Home Page
 
-![Diary Home Page](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Personal%20Diary%20Home%20Page.png)
+![Diary Home Page](https://github.com/vinod-kanigicherla/MyDiary/blob/master/images/Personal%20Diary%20Home%20Page.png)
 
 ![Diary Home Page with Menu Options](https://github.com/vinod-kanigicherla/V-Diary/blob/master/images/Diary%20App%20Home%20Page%20%2B%20Add%20and%20Clear%20all%20Templates.png)
 
