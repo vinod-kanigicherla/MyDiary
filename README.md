@@ -2,7 +2,7 @@
 
 ## Description Overview
 
-**MyDiary** is a personal, password-protected diary app that allows you to document your life in a private and secure environment. Whether you're recording daily events, organizing thoughts, or tracking feelings, **MyDiary** makes it easy to store, manage, and retrieve entries. You can access past entries quickly through the user-friendly interface and protect your personal space with password security.
+**MyDiary** is a personal diary app that allows you to document your life in a private and secure environment. Whether you're recording daily events, organizing thoughts, or tracking feelings, **MyDiary** makes it easy to store, manage, and retrieve entries. You can access past entries quickly through the user-friendly interface and protect your personal space with password security.
 
 ## Features
 
