@@ -1,14 +1,20 @@
-# MyDiary: Android Diary App 
+# MyDiary: Android Diary App
 
 ## Description Overview
 
+**MyDiary** is a personal, password-protected diary app that allows you to document your life in a private and secure environment. Whether you're recording daily events, organizing thoughts, or tracking feelings, **MyDiary** makes it easy to store, manage, and retrieve entries. You can access past entries quickly through the user-friendly interface and protect your personal space with password security.
 
-MyDiary allows you to create your own personal password-protected diary on your phone. This app allows you to record what happens in your life and organize your thoughts and feelings everyday. Additionally, you can easily access journal entries from the past through its easy to use interface. In this digital space protected from the outside world, you can write about whatever you want regardless of other people’s opinions.
+## Features
 
-## Base Feature List
+- **Create Diary Entries**: Easily add new diary entries with a title, content, and tags.
+- **Edit/Delete Entries**: Modify or delete your diary entries at any time.
+- **User-Friendly Interface**: Simple navigation for adding, viewing, and editing entries.
 
+## Technologies Used
 
-1. Create and use your own custom templates
-2. Automatic creation of new diary page based on date
-3. Add category tags to each diary page
-4. Saves all data into shared preferences
+- **Kotlin** for Android app development.
+- **Android Jetpack Compose** for modern UI components.
+- **Gson** for JSON parsing and saving data in SharedPreferences.
+- **Material Design 3** for user interface elements.
+- **SharedPreferences** for local data storage.
+
